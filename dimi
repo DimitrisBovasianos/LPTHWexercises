@@ -1,0 +1,7 @@
+
+import random
+d = { "sjdsjdak":"sdndsna",
+"nsdmskd":"ep",
+"maria":"natalia"}
+com = random.choice(d.keys())
+print com
